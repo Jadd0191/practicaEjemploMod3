@@ -6,7 +6,7 @@ DB_HOST = "localhost"
 DB_PORT = "5432"
 DB_NAME = "credenciales"
 DB_USER = 'Admin'
-DB_PASSWORD = "p4ssw0rdDB"
+DB_PASSWORD = "p4ssw0rdDB" = 
 
 def conectar_db():
     """Conecta a la base de datos PostgreSQL y retorna la conexión."""
